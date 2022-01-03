@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/richfairhurst/richfairhurst/main/header.png "Header")](https://www.richfairhurst.co.uk/)
+
 ## Hello, folks! 👋 
 
 My name is Richard Fairhurst and I'm a cyber security professional in the UK. You can find me on [Twitter][1], or on [LinkedIn][2]
