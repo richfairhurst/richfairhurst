@@ -2,27 +2,36 @@
 
 ## Hello, folks! 👋 
 
-My name is Rich Fairhurst and I'm trying hard to impersonate a cyber security professional. Based in the UK, you can find me on [Twitter][1], or on [LinkedIn][2]
+My name is Rich Fairhurst and I'm trying hard to impersonate a cyber security professional. Currently based in the south coast of the UK.
+
+```python
+class RichFairhurst:
+
+    def __init__(self):
+        self.username = 'richfairhurst'
+        self.name = 'Richard Fairhurst'
+        self.web = 'https://www.richfairhurst.co.uk'
+        self.twitter = '@richfairhurst'
+        self.instagram = '@richfairhurst'
+        self.linkedin = 'https://www.linkedin.com/in/richfairhurst/'
+        self.email = 'rich[at]richfairhurst[dot]co[dot]uk
+        self.code = {
+            'language': ['Python', 'Go'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'GCloud', 'k8s'],
+            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook', 'Redis','Bninja', 'IDA Pro', 'Pycharm'],
+            'misc': ['GNU/Linux']
+        }
+        self.architecture = ['x86', 'x64', 'arm']
+
+    def __str__(self):
+        return self.name
 
 
-## 🔧 Technologies & Tools
+if __name__ == '__main__':
+    me = RichFairhurst()
 
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
-
-## 📬 Get in Touch
-
-
-- [GitHub][5]
-- [LinkedIn][1]
-- [Website][3]
-- [E-mail][4]
-
-
+```
 
 
 <!-- links to social media accounts -->
