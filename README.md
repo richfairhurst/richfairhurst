@@ -14,7 +14,7 @@ class RichFairhurst:
         self.twitter = '@richfairhurst'
         self.instagram = '@richfairhurst'
         self.linkedin = 'https://www.linkedin.com/in/richfairhurst/'
-        self.email = 'rich[at]richfairhurst[dot]co[dot]uk
+        self.email = 'rich[at]richfairhurst[dot]co[dot]uk'
         self.code = {
             'language': ['Python', 'Go'],
             'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'GCloud', 'k8s'],
