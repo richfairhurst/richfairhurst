@@ -6,7 +6,7 @@
  
 - ⚡ My name is **Rich** Fairhurst
 - 💻 I'm trying hard to impersonate a cyber security professional
-- 👯 Currently based in the south coast of the UK.
+- 👯 Currently based on the south coast of the UK.
 - 💬 Ask me Anything [here](https://github.com/richfairhurst/richfairhurst/issues/1)! Im happy to help.
 - ⛰ If i’m not at a computer, i’m either in, or dreaming about, being underwater or in the mountains.
 - 😄 As far as pronouns go, I prefer he/him.
