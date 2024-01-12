@@ -1,7 +1,7 @@
 
 ## Hello, folks! 👋 
 
-<br/>
+
 - ⚡ My name is **Rich** Fairhurst
 - 💻 I'm trying hard to impersonate a cyber security professional
 - 👯 Currently based on the south coast of the UK.
